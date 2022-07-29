@@ -1,0 +1,1 @@
+Please note that VADER sentiment analysis can be found in the notebooks together with their corresponding indeces (folder SENTIMENT INDECES)
