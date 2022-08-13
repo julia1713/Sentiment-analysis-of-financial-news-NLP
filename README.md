@@ -9,9 +9,9 @@ Steps of the project:
 5. Creation of sentiment indices (4 in total) ✅
 6. Correlation among indeces using Pearson, Spearman, Kendall, CCF, Label Hard-Encoded ✅
 7. Correlation with S&P 500 ✅
-8. Results & Discussion 
+8. Results & Discussion ✅
 9. Threats to validity ✅
-10. Conclusion
+10. Conclusion ✅
 
 
 PS: If a jupyter notebook takes too long to render, please copy and paste the GitHub URL here: https://nbviewer.org/
